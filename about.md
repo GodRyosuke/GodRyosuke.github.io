@@ -1,4 +1,15 @@
-# About
+# はじめまして、Ryosukeです。
+これを書いている時点では、大学院生(情報系)です。
+情報系なのに、通信とかじゃなく、ロボットをパソコン使って動かすことをやってます。
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+具体的には、
+ - SLAMで自己位置推定
+ - MoveIt!に頼ってアームを動かす
+ - Realsenseなどの深度カメラを使って物体認識
+
+といったことをやってます。
+
+Qiitaにもメモとしてたまに投稿しているので、よかったらみてくださいな。
+[RyosukeのQiitaのサイト](https://qiita.com/RyosukeKusumoto/)
+
 
