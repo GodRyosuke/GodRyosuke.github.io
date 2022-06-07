@@ -2,7 +2,7 @@
 基本操作
 このサイトも参考になる
 
-[https://qiita.com/wMETAw/items/34ba5c980e2a38e548db]
+[サイトへのリンク](https://qiita.com/wMETAw/items/34ba5c980e2a38e548db)
 
 
 
